@@ -1,0 +1,30 @@
+{
+  "name": "eslint-plugin-wpy",
+  "version": "1.0.0",
+  "description": "eslint plugin for .wpy projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romoo/eslint-plugin-wpy"
+  },
+  "keywords": [
+    "eslint",
+    "plugin",
+    "eslint-plugin",
+    "eslintplugin",
+    "wepy",
+    "wpy"
+  ],
+  "author": "Romoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romoo/eslint-plugin-wpy/issues"
+  },
+  "homepage": "https://github.com/romoo/eslint-plugin-wpy#readme",
+  "peerDependencies": {
+    "eslint": "^2.0.0 || ^3.0.0"
+  },
+  "dependencies": {
+    "eslint-plugin-html": "^2.0.0-beta.0"
+  }
+}
